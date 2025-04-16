@@ -26,7 +26,7 @@ A Python tool that monitors your Instagram inbox and displays new messages in th
 
 ## Screenshot
 ![Terminal Output](screenshot_terminal.jpg)
-![Telegram Notification](screenshot_telegram.jpg)
+![Telegram Notification](IMG_20250416_182249_191.jpg)
 
 ## Author
 - **L7N**
