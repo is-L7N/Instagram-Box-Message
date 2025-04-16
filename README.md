@@ -28,11 +28,11 @@ A Python tool that monitors your Instagram inbox and displays new messages in th
 
 ### Telegram Output
 
-<img src="IMG_20250416_182249_191.jpg" alt="Telegram Screenshot" width="300"/>
+<img src="IMG_20250416_182249_191.jpg" alt="Telegram Screenshot" width="100"/>
 
 ### Terminal Output
 
-<img src="screenshot_terminal.jpg" alt="Terminal Screenshot" width="300"/>
+<img src="IMG_20250416_182252_493 (1).jpg" alt="Terminal Screenshot" width="300"/>
 
 ## Author
 - **L7N**
