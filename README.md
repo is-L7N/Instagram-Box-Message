@@ -25,8 +25,14 @@ A Python tool that monitors your Instagram inbox and displays new messages in th
 - Modules: `requests`, `json`, `base64`, `os`, `time`, `random`
 
 ## Screenshot
-![Terminal Output](screenshot_terminal.jpg)
-![Telegram Notification](IMG_20250416_182249_191.jpg)
+
+### Telegram Output
+
+<img src="IMG_20250416_182249_191.jpg" alt="Telegram Screenshot" width="300"/>
+
+### Terminal Output
+
+<img src="screenshot_terminal.jpg" alt="Terminal Screenshot" width="300"/>
 
 ## Author
 - **L7N**
